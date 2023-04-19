@@ -10,7 +10,7 @@ It has been created with OpenGL and GLFW3.
 
 
 ## Build
-To build it you must have [cmake](https://cmake.org/) and [make](https://www.gnu.org/software/make/) downloaded on your OS.
+To build it you must have [cmake](https://cmake.org/) downloaded on your OS.
 ### Windows
 It has only been tested on Visual Studio 2022 environment.
 
