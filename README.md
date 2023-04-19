@@ -1,6 +1,6 @@
 # MazeRaycaster
 
-A very simple raycaster made as as college project for C++ class.
+A very simple raycaster made as a college project for C++ class.
 
 It has been created with OpenGL and GLFW3.
 
